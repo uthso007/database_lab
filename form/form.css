@@ -1,0 +1,42 @@
+h1
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+}
+.regi
+{
+    border: 2px solid black;
+    width: 80%;
+    margin-left: 130px;
+    margin-top: 40px;
+    background-color: rgb(81, 81, 209);
+}
+.form
+{
+    margin-top: 25px;
+    width: 600px;
+    padding-left: 400px;
+    padding-bottom: 20px;
+    color: white;
+    font-weight: bold;
+}
+.form input{
+    padding: 5px 15px;
+    border-radius: 6px;
+}
+
+button
+{
+    margin-top: 5px;
+    padding: 5px 64px;
+    background-color: rgb(16, 94, 167);
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    transition: 1s;
+}
+button:hover{
+    background-color: rgb(3, 3, 26);
+    cursor: pointer;
+}
